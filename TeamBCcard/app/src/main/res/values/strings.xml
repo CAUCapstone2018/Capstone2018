@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TeamBCcard</string>
+    <string name="camera">camera</string>
+    <string name="capture">capture</string>
+    <string name="insert">+</string>
+    <string name="name">Name</string>
+    <string name="back">back</string>
+    <string name="modify">modify</string>
+    <string name="phonenumber">010-1234-5678</string>
+    <string name="person">person</string>
+    <string name="email">example@exam.ple</string>
+    <string name="address">address</string>
+    <string name="etc">etc</string>
+</resources>
